@@ -47,3 +47,4 @@ else:
     print(f"\n😢 游戏结束，{max_attempts} 次机会已用完。正确答案是 {answer}。")
 
     # TODO: 记录玩家最高分
+    # 测试新功能
